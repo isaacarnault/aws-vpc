@@ -1,0 +1,19 @@
+________  ________  ___  __    ___     
+|\_____  \|\   __  \|\  \|\  \ |\  \    
+ \|___/  /\ \  \|\  \ \  \/  /|\ \  \   
+     /  / /\ \   __  \ \   ___  \ \  \  
+    /  /_/__\ \  \ \  \ \  \\ \  \ \  \ 
+   |\________\ \__\ \__\ \__\\ \__\ \__\
+    \|_______|\|__|\|__|\|__| \|__|\|__|
+                                                         
+                                        
+
+Other cloud platforms such as GCP, Azure.
+
+VPCs and Subnets - basic concepts.
+
+A Virtual Private Cloud `VPC` is a virtual network dedicated to your AWS account. It is logically isolated from other virtual networks in the AWS Cloud. You can launch your AWS resources, such as Amazon EC2 instances, into your VPC. You can specify an IP address range for the VPC, add subnets, associate security groups, and configure route tables.</li>
+
+A subnet is a range of IP addresses in your VPC. You can launch AWS resources into a specified subnet. Use a public subnet for resources that must be connected to the internet, and a private subnet for resources that won't be connected to the internet. For more information about public and private subnets, see VPC and Subnet Basics.
+
+To protect the AWS resources in each subnet, you can use multiple layers of security, including security groups and network access control lists (ACL).
