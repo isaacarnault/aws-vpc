@@ -10,8 +10,8 @@ I deployed for this gist: <br>
 <details>
 <summary>🔵 See solution architecture</summary>
 <p>
-
-[![isaac-arnault-AWS-architecture.png](https://i.postimg.cc/jqDGCJSv/isaac-arnault-AWS-architecture.png)](https://postimg.cc/K4y9HjLg)
-
+  
+[![isaac-arnault-AWS.png](https://i.postimg.cc/vBBxrDPr/isaac-arnault-AWS.png)](https://postimg.cc/LqcsR4F5)
+  
 </p>
 </details>
