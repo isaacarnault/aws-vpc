@@ -11,7 +11,7 @@ I deployed for this gist: <br>
 <summary>🔵 See solution architecture</summary>
 <p>
   
-[![isaac-arnault-AWS.png](https://i.postimg.cc/vBBxrDPr/isaac-arnault-AWS.png)](https://postimg.cc/LqcsR4F5)
+[![isaac-arnault-architecture-AWS.png](https://i.postimg.cc/LXf92dv1/isaac-arnault-architecture-AWS.png)](https://postimg.cc/DJvkPM9v)
   
 </p>
 </details>
