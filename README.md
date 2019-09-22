@@ -30,4 +30,4 @@ To install `java 1.8.0`, open Terminal `Ctrl+Alt+T` and run the command:<br>
 
 ## Author
 
-* **Isaac Arnault** - AWS Cloud series - Related tags: #EC2 #EFS #AWSCLI #Linux
+* **Isaac Arnault** - AWS Cloud series - Related tags: #EC2 #EFS #AWSCLI #Linux 
